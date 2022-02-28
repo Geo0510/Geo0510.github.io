@@ -23,7 +23,7 @@ img {
 
 .container {
   width: 300px;
-  margin: 10em auto;
+  margin: 20em auto;
   background-color: hsl(0, 0%, 100%);
   text-align: center;
   padding: 15px;
@@ -50,6 +50,7 @@ img {
   font-size: 11px;
   text-align: center;
 }
+
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
