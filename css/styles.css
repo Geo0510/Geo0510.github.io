@@ -9,7 +9,7 @@
 body {
   margin: 0;
   background-color: hsl(212, 45%, 89%);
-  font-family: 'Outfit', sans-serif;
+  font-family: "Outfit", sans-serif;
   font-weight: 400;
 }
 
@@ -17,20 +17,20 @@ img {
   max-width: 100%;
 }
 
-.img_qr{
+.img_qr {
   border-radius: 20px;
 }
 
 .container {
   width: 300px;
-  margin: 5em auto 0 auto;
+  margin: 5em auto 5em auto;
   background-color: hsl(0, 0%, 100%);
   text-align: center;
   padding: 15px;
   border-radius: 20px;
 }
 
-.container_title{
+.container_title {
   color: hsl(218, 44%, 22%);
   font-size: 22px;
 }
@@ -40,7 +40,7 @@ img {
   font-size: 15px;
 }
 
-.container_info{
+.container_info {
   width: 250px;
   margin-left: auto;
   margin-right: auto;
