@@ -18,7 +18,7 @@ img {
 }
 
 .img_qr{
-  border-radius: 15px;
+  border-radius: 20px;
 }
 
 .container {
@@ -27,7 +27,7 @@ img {
   background-color: hsl(0, 0%, 100%);
   text-align: center;
   padding: 15px;
-  border-radius: 15px;
+  border-radius: 20px;
 }
 
 .container_title{
