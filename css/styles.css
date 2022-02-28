@@ -18,16 +18,16 @@ img {
 }
 
 .img_qr{
-  border-radius: 10px;
+  border-radius: 15px;
 }
 
 .container {
   width: 300px;
-  margin: 5em auto;
+  margin: 10em auto;
   background-color: hsl(0, 0%, 100%);
   text-align: center;
   padding: 15px;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 
 .container_title{
