@@ -11,19 +11,28 @@ body {
   background-color: hsl(212, 45%, 89%);
   font-family: "Outfit", sans-serif;
   font-weight: 400;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 img {
-  max-width: 100%;
+  max-width: 100%
 }
 
 .img_qr {
   border-radius: 20px;
 }
 
+figure{
+  width: 100%;
+  margin: 0 auto;   
+}
+
 .container {
   width: 300px;
-  margin: 5em auto 5em auto;
   background-color: hsl(0, 0%, 100%);
   text-align: center;
   padding: 15px;
